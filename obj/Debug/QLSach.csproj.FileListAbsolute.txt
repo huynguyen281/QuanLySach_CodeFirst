@@ -1,0 +1,16 @@
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\QLSach.exe.config
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\QLSach.exe
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\QLSach.pdb
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\EntityFramework.dll
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\EntityFramework.SqlServer.dll
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\EntityFramework.xml
+F:\C sharp\visual studio\DEMOO\QLSach\bin\Debug\EntityFramework.SqlServer.xml
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.csproj.AssemblyReference.cache
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.Form1.resources
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.csproj.GenerateResource.cache
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.csproj.CoreCompileInputs.cache
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.csproj.CopyComplete
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.exe
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.pdb
+F:\C sharp\visual studio\DEMOO\QLSach\obj\Debug\QLSach.DetailSach.resources
