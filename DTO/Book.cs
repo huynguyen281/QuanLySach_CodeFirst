@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace QLSach.DTO
 {
     [Table("Sach")]
-    public class Sach
+    public class Book
     {
         [Key]
         public string MaSach { get; set; }
@@ -19,6 +19,6 @@ namespace QLSach.DTO
         public int ID_TG { get; set; }
 
         [ForeignKey("ID_TG")]
-        public virtual TacGia TG { get; set; }
+        public virtual Author TG { get; set; }
     }
 }

@@ -63,13 +63,14 @@
     <Compile Include="DetailSach.Designer.cs">
       <DependentUpon>DetailSach.cs</DependentUpon>
     </Compile>
-    <Compile Include="DTO\Sach.cs" />
-    <Compile Include="DTO\TacGia.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="DTO\Book.cs" />
+    <Compile Include="DTO\Book_View.cs" />
+    <Compile Include="DTO\Author.cs" />
+    <Compile Include="ListSach.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ListSach.Designer.cs">
+      <DependentUpon>ListSach.cs</DependentUpon>
     </Compile>
     <Compile Include="QLSach.cs" />
     <Compile Include="Program.cs" />
@@ -77,8 +78,8 @@
     <EmbeddedResource Include="DetailSach.resx">
       <DependentUpon>DetailSach.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="ListSach.resx">
+      <DependentUpon>ListSach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

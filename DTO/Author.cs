@@ -9,17 +9,22 @@ using System.Threading.Tasks;
 namespace QLSach.DTO
 {
     [Table("TacGia")]
-    public class TacGia
+    public class Author
     {
-        public TacGia()
+        public Author()
         {
-            Sachs = new HashSet<Sach>();
+            Sachs = new HashSet<Book>();
         }
 
         [Key]
         public int ID_TacGia { get; set; }
         public string TenTacGia { get; set; }
 
-        public virtual ICollection<Sach> Sachs { get; set; }
+        public virtual ICollection<Book> Sachs { get; set; }
+
+        public override string ToString()
+        {
+            return this.TenTacGia;
+        }
     }
 }
